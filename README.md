@@ -1,2 +1,3 @@
 # Encrypted-Money-Information-Acquisition
-利用Requests-BeautifulSoup4 从feixiaohao.com获取数据并保存为文本文件
+利用Requests-BeautifulSoup4从feixiaohao.com获取数据并保存为文本文件
+缺少一个Reporter.py文件，由于其涉及私密数据，所以不提供可以自己写一个或去除相关代码，不影响正常使用
